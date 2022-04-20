@@ -6,7 +6,7 @@
 
 **I'm java script developer**
 *There is example of my code*
-```python
-def main():
-    print("hello")
+```html
+    <input type="text" autocomplete="off">
+    <div id="result"></div>
 ```
