@@ -21,6 +21,6 @@ $('input').on('change', function () {
 })
 ```
 
-This is my social networks
+This is my social networks:
 *[Linkedin](https://www.linkedin.com/in/vitalii-movchan/)
 *[Telegram](https://t.me/vitaliimv24)
