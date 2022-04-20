@@ -6,7 +6,7 @@
 
 **I'm java script developer**
 *There is example of my code*
-```javascript
+```python
 $('input').on('change', function () {
     let username = $('input').val()
     $.ajax(`https://api.github.com/users/${username}`, {
